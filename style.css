@@ -1,0 +1,55 @@
+.forms {
+    width: 400px;
+    height: 500px;
+    padding: 70px;
+    border: 2px solid black;
+    margin-left: 380px;
+}
+
+.forms h2 {
+    font-family: Bona Nova;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 49px;
+    letter-spacing: 0em;
+    text-align: center;
+    background-color: transparent;
+    background-image: linear-gradient(87.4deg, #FFF691 -4.23%, #90610E);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    margin-bottom: 10px;
+}
+
+.forms span {
+    color: black;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+input {
+    border-radius: 8px;
+    background-color: #FFFFFFB5;
+    color: black;
+    height: 32px;
+    width: 280px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+    align-content: center;
+
+}
+
+button {
+    width: 226px;
+    height: 50.08px;
+    border-radius: 10px;
+    background: linear-gradient(87.4deg, #FFF691 -4.23%, #90610E 77.49%);
+    margin-top: 20px;
+}
